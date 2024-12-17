@@ -40,3 +40,14 @@ To run the program, execute the following command:
 ```bash
 java cs
 ```
+## Available Options
+When you run the program, you'll be presented with the following menu options:
+
+1. Add new Student: Allows you to input a new student’s details such as student number, first name, etc.
+2. Display Student's Record: Displays all records in the database.
+3. Search Record: Allows searching for student records by student number, first name, last name.
+4. Update Student's Record: Allows you to modify an existing student's record.
+5. Delete Student's Record: Allows you to delete a student's record from the database.
+6. Exit: Exit the program.
+
+### 4. Screenshots
