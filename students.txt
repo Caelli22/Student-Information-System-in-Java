@@ -17,4 +17,3 @@ SUM2021-16:::Alexander:::L.:::Harris:::23:::Male:::2nd:::BSIT:::Sumacab
 SUM2021-17:::Avery:::B.:::Clark:::20:::Female:::2nd:::BSIT:::Sumacab
 SUM2021-18:::Jack:::F.:::Lewis:::21:::Male:::2nd:::BSIT:::Sumacab
 SUM2021-19:::Lily:::D.:::Roberts:::22:::Female:::2nd:::BSIT:::Sumacab
-SUM2021-20:::Lucas:::M.:::Walker:::23:::Male:::2nd:::BSIT:::Sumacab
