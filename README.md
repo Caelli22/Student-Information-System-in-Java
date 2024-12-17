@@ -50,7 +50,7 @@ When you run the program, you'll be presented with the following menu options:
 5. Delete Student's Record: Allows you to delete a student's record from the database.
 6. Exit: Exit the program.
 
-### 4. Screenshots
+## Screenshots
 
 ![Screenshot 1](https://github.com/Caelli22/Student-Information-System-in-Java/blob/main/screenshots/1.png)
 ![Screenshot 2](https://github.com/Caelli22/Student-Information-System-in-Java/blob/main/screenshots/3.png)
