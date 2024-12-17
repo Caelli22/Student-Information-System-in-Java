@@ -19,3 +19,24 @@ This project is a simple console-based **Student Information System** that allow
 ## How to Use
 
 ### 1. Clone the Repository
+To get started, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/Students-Information-System.git
+cd Students-Information-System
+```
+
+### 2. Compile the Java Code
+To get started, clone the repository to your local machine:
+To compile the Java code, use the `javac` command:
+
+```bash
+javac cs.java
+```
+
+### 3. Run the Program
+To run the program, execute the following command:
+
+```bash
+java cs
+```
