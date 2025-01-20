@@ -22,7 +22,7 @@ This project is a simple console-based **Student Information System** that allow
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/Students-Information-System.git
+git clone https://github.com/Caelli22/Students-Information-System.git
 cd Students-Information-System
 ```
 
